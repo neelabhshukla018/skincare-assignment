@@ -96,11 +96,6 @@ This project is configured for **Netlify**. To deploy:
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots for desktop, tablet, and mobile views here for better visualization.
-
----
 
 ## 🤝 Contributing
 
@@ -122,4 +117,4 @@ This project is licensed under the MIT License.
 
 ---
 
-> Crafted with 💚 by [Your Name or Team Name]
+> Crafted with 💚 by [Neelabh Shukla]
